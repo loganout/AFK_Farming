@@ -8,6 +8,10 @@ Uma ferramenta baseada em Macro para facilitar algumas ações no Lost Ark
 
 ***NÃO ME RESPONSABILIZO POR SUA CONTA BANIDA!***
 
+## __**DISCORD**__
+
+Utilize o **[Discord](https://discord.gg/wxxmD8wytw)** para cadastrar um usuário e senha necessários para o login no **AFK Farming**
+
 ## __**DONATE**__
 
 Se você acha que valeu a pena, me pague um café!
